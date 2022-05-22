@@ -28,3 +28,15 @@ Here are the tests I made from the expected output above:
 ![alt text](fail1.png)
 ![alt text](fail2.png)
 ![alt text](fail3.png)
+
+
+### d. Showing the corresponding output when running the tests on the implementation we reviewed in week 7:
+
+- Result for Snippet 1: Failed.
+- Result for Snippet 2: Failed.
+- Result for Snippet 2: Failed.
+
+![alt text](fail11.png)
+![alt text](fail12.png)
+![alt text](fail13.png)
+
