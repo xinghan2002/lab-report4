@@ -40,3 +40,9 @@ Here are the tests I made from the expected output above:
 ![alt text](fail12.png)
 ![alt text](fail13.png)
 
+## Part 3: Free Responses
+
+1. For the first snippet, yes, we just have to add two new variables called `FirstindexOfBackTick` and `SecondindexOfBackTick` in line 16 and 17, and added an if statement to considered the next `[` if the index of `[` is between the two `` ` ``.
+2. For the second snippet, no, I think this is more involvedn since inorder to adress the multiple parentheses problem there must be a more advanced method to determine what actually "looks like" a code and work around it (and the method to keep track of the index would get really complicated).
+3.  For the third snippet, yes, we could add a variable called `indexOfSpace` and if there is ever a sequence of consecutive index, we directly jump to the next `[` and disregard the current link.
+
