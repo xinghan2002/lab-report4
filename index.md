@@ -24,3 +24,7 @@ Here are the tests I made from the expected output above:
 - Result for Snippet 1: Failed.
 - Result for Snippet 2: Failed.
 - Result for Snippet 2: Failed.
+
+![alt text](fail1.png)
+![alt text](fail2.png)
+![alt text](fail3.png)
