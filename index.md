@@ -15,4 +15,12 @@
 
 ### b. Showing the code in `MarkdownParseTest.java` for how you turned it into a test
 
-1. Test code for this snippet:Tests
+Here are the tests I made from the expected output above:
+
+![alt text](3tests.png)
+
+### c. Showing the corresponding output when running the tests:
+
+- Result for Snippet 1: Failed.
+- Result for Snippet 2: Failed.
+- Result for Snippet 2: Failed.
